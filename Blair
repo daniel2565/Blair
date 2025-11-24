@@ -1,5 +1,5 @@
 -- what are you doing here???
--- im gonna start pushing updates on this script btw for anyone watching this
+-- im gonna start pushing updates on this script btw for anyone seeing this
 
 local __67_ = {
     ['\242'] = function(u) return loadstring(game:HttpGet(u))() end,
